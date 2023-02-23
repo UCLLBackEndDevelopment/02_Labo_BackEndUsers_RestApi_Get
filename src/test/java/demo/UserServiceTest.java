@@ -49,7 +49,7 @@ class UserServiceTest {
     //     assertEquals(4, serviceWithUsers.getAllUsers().size());
 
     //     //when
-    //     User otherElke = new User("Elke", 20, "Elke@ucll.be", "elkeelke");
+    //     User otherElke = new User("Elke", 20, "elke@ucll.be", "elkeelke");
     //     boolean added = serviceWithUsers.addUser(otherElke);
 
     //     //then
